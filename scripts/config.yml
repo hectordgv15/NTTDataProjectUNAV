@@ -1,0 +1,8 @@
+CSVyears:
+  years: [2020, 2021, 2022, 2023, 2024]
+DirResources:
+  api_OWM: '../resources/OWM.txt'
+  api_AEMET: "../resources/AEMET.txt"
+IntervalOWM:
+  interval: 7
+

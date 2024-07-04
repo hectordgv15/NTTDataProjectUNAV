@@ -1,0 +1,179 @@
+id,Cauce,Municipio,Provincia,Coordenadas UTM,X,Y,Z,Tipo de aforo,Instrumentación,Cuenca vertiente,titulo
+2001,Duero,"Royo, El",Soria,Huso 30,41.87635755021094,-2.6931709177832146,1049,---,"Sonda, flotador y limnígrafo","556,30 km2",Duero en Salida del embalse de La Cuerda del Pozo
+2002,Duero,Garray,Soria,Huso 30,41.797096217224485,-2.4549612870776625,1022,---,Sonda y limnígrafo,"1.458,90 km2",Duero en Garray-Soria
+2004,Duero,Gormaz,Soria,Huso 30,41.486513341804354,-3.010517478661481,880,---,Sonda,"5.073,30 km2",Duero en Gormaz
+2005,Ucero,"Burgo de Osma, El",Soria,Huso 30,41.57552150664676,-3.0837754244680156,900,---,Flotador y limnígrafo,"894,40 km2",Ucero en Osma
+2006,Tormes,Hoyos del Espino,Ávila,Huso 30,40.3411543868295,-5.181905880052672,1370,---,Sonda,"64,70 km2",Tormes en Hoyos del Espino
+2009,Riaza,Riaza,Segovia,Huso 30,41.283820131804944,-3.472033293682258,1139,---,Flotador y limnígrafo,"37,10 km2",Riaza en Riaza
+2010,Riaza,Maderuelo,Segovia,Huso 30,41.533928875265936,-3.5611767054782613,900,---,Flotador y limnígrafo,"762,10 km2",Riaza en Linares del Arroyo
+2011,Porma,Boñar,León,Huso 30,42.92522745741939,-5.296433074536978,1034,---,Radar y Limnígrafo,"250,20 km2",Porma en Salida del embalse del Porma
+2012,Duratón,Sepúlveda,Segovia,Huso 30,41.300673837988235,-3.7376984919324228,920,---,Flotador y limnígrafo,"466,30 km2",Duratón en Sepúlveda
+2013,Duero,Aranda de Duero,Burgos,Huso 30,41.65401708290693,-3.680586463672682,790,---,Sonda,"7.456,70 km2",Duero en Aranda de Duero
+2015,Duero,Tudela de Duero,Valladolid,Huso 30,41.56490677198062,-4.666438584719747,690,---,Sonda,"12.791,40 km2",Duero en Herrera de Duero
+2016,Cega,Arahuetes,Segovia,Huso 30,41.16727026137392,-3.854748787876355,938,---,Sonda y limnígrafo,"286,90 km2",Cega en Pajares de Pedraza
+2017,Duero,"Burgo de Osma, El",Soria,Huso 30,41.50786028339481,-3.103148271501391,868,---,Sonda y limnígrafo,"6.406,20 km2",Duero en Navapalos
+2018,Odra,Pedrosa del Príncipe,Burgos,Huso 30,42.251477540304904,-4.201580789972705,766,---,"Sonda, flotador y limnígrafo","797,20 km2",Odra en Pedrosa del Príncipe
+2019,Pisuerga,Salinas de Pisuerga,Palencia,Huso 30,42.84905438527934,-4.389432058787872,947,---,Flotador y limnígrafo,"454,80 km2",Pisuerga en Salinas de Pisuerga
+2020,Pisuerga,Aguilar de Campoo,Palencia,Huso 30,42.7943107821093,-4.2806393770596545,902,---,Flotador y limnígrafo,"546,30 km2",Pisuerga en Salida del embalse de Aguilar de Campoo
+2022,Rivera,Cervera de Pisuerga,Palencia,Huso 30,42.85828367395963,-4.517182790358336,1013,---,Sonda y Limnígrafo,"59,10 km2",Rivera en Ruesga
+2023,Carrión,Pino del Río,Palencia,Huso 30,42.60824545079793,-4.798308633182361,979,---,Flotador y limnígrafo,"496,70 km2",Carrión en Celadilla del Río
+2024,Pisuerga,Alar del Rey,Palencia,Huso 30,42.657156570228516,-4.315850784223199,850,---,Sonda y Limnígrafo,"1.119,60 km2",Pisuerga en Alar del Rey
+2025,Esgueva,Villanueva de los Infantes,Valladolid,Huso 30,41.700718621049894,-4.481125707110047,733,---,Sonda y Limnígrafo,"877,40 km2",Esgueva en Villanueva de los Infantes
+2026,Valdavia,Abia de Las Torres,Palencia,Huso 30,42.42327076446796,-4.418619726140805,816,---,Flotador y limnígrafo,"647,00 km2",Valdavia en Abia de Las Torres
+2028,Arlanza,Salas de los Infantes,Burgos,Huso 30,42.03431050424503,-3.27773498457168,955,---,Flotador,"356,60 km2",Arlanza en Salas de los Infantes
+2029,Pisuerga,Cordovilla la Real,Palencia,Huso 30,42.13053446242662,-4.24956418936884,740,---,Radar,"4.218,50 km2",Pisuerga en Cordovilla
+2030,Arlanza,Covarrubias,Burgos,Huso 30,42.05392816536027,-3.5086904330688795,881,---,Sonda y limnígrafo,"1.208,90 km2",Arlanza en Covarrubias
+2031,Arlanza,Peral de Arlanza,Burgos,Huso 30,42.07886287901861,-4.079419025224969,770,---,Sonda y limnígrafo,"2.420,90 km2",Arlanza en Peral de Arlanza
+2032,Arlanzón,Villasur de Herreros,Burgos,Huso 30,42.305213550694056,-3.373012903102773,1042,---,Sonda y limnígrafo,"152,30 km2",Arlanzón en Salida del embalse de Úzquiza
+2034,Besandino,Boca de Huérgano,León,Huso 30,42.89691664608904,-4.885417356044453,1270,---,Sonda y limnígrafo,"37,60 km2",Besandino en Besande
+2035,Besandino,Velilla del río Carrión,Palencia,Huso 30,42.82969692335958,-4.849409453593267,1127,---,Radar y limnígrafo,"72,60 km2",Besandino en Otero de Guardo
+2036,Arlanza,Herrera de Valdecañas,Palencia,Huso 30,42.05604261682116,-4.240501162100411,740,---,Sonda y limnígrafo,"5.211,20 km2",Arlanza en Quintana del Puente
+2037,Carrión,Velilla del río Carrión,Palencia,Huso 30,42.85284602062836,-4.83334501818982,1135,---,Flotador,"312,50 km2",Carrión en Salida del embalse de Compuerto
+2040,Carrión,Villoldo,Palencia,Huso 30,42.24942740467784,-4.6001559203588736,790,---,Flotador y limnígrafo,"976,00 km2",Carrión en Villoldo
+2041,Ucieza,Villalcázar de Sirga,Palencia,Huso 30,42.32231503341573,-4.523920706396541,795,---,Sonda y limnígrafo,"313,40 km2",Ucieza en Villalcázar de Sirga
+2042,Carrión,Grijota,Palencia,Huso 30,42.03625314334324,-4.558286781409178,740,---,Flotador y limnígrafo,"2.255,20 km2",Carrión en Palencia
+2043,Pisuerga,Cabezón de Pisuerga,Valladolid,Huso 30,41.74108242242292,-4.63928754725192,698,---,Sonda y limnígrafo,"14.293,20 km2",Pisuerga en Cabezón de Pisuerga
+2044,Esgueva,Valladolid,Valladolid,Huso 30,41.65094191843994,-4.704380510211022,690,---,Radar,"990,80 km2",Esgueva en Valladolid-Esgueva
+2046,Adaja,Ávila,Ávila,Huso 30,40.649838321576446,-4.707181425459567,1066,---,Flotador y limnígrafo,"762,00 km2",Adaja en Ávila
+2047,Voltoya,Mediana de Voltoya,Ávila,Huso 30,40.716977881681885,-4.539240525868252,1089,---,Sonda y limnígrafo,"132,00 km2",Voltoya en Mediana de Voltoya
+2049,Esgueva,Cabañes de Esgueva,Burgos,Huso 30,41.82967919177364,-3.7905138183853837,871,---,"Sonda, flotador y limnígrafo","269,40 km2",Esgueva en Cabañes de Esgueva
+2050,Eresma,Segovia,Segovia,Huso 30,40.95064121951864,-4.147768651992891,900,---,"Sonda,flotador y limnígrafo","252,20 km2",Eresma en Segovia
+2051,Moros,El Espinar,Segovia,Huso 30,40.75031989504944,-4.155569862496401,1260,---,Sonda,"37,40 km2",Moros en El Espinar
+2052,Moros,Valdeprados,Segovia,Huso 30,40.81986039073369,-4.282907058904563,940,---,"Sonda, flotador y limnígrafo","217,70 km2",Moros en Guijas Albas
+2053,Eresma,Bernardos,Segovia,Huso 30,41.15582604492006,-4.3447956969982515,782,---,"Sonda, flotador y limnígrafo","1.436,10 km2",Eresma en Bernardos
+2054,Duero,San Miguel del Pino,Valladolid,Huso 30,41.50411258174353,-4.930566440577414,670,---,Sonda,"36.595,40 km2",Duero en San Miguel del Pino
+2055,Moros,Vegas de Matute,Segovia,Huso 30,40.773136267282716,-4.242430679350147,1045,---,"Sonda, flotador y limnígrafo","175,50 km2",Moros en Los Ángeles de San Rafael
+2056,Adaja,Valdestillas,Valladolid,Huso 30,41.49040338867199,-4.769978095535315,693,---,Radar,"5.178,40 km2",Adaja en Valdestillas
+2057,Pirón,Escobar de Polendos,Segovia,Huso 30,41.11316750741807,-4.124415880969627,869,---,Sonda y limnígrafo,"199,80 km2",Pirón en Villovela de Pirón
+2060,Órbigo,Cebrones del Río,León,Huso 30,42.248466276514236,-5.829246537196424,754,---,Sonda y limnígrafo,"3.168,30 km2",Órbigo en Cebrones del Río
+2061,Órbigo,Santa Marina del Rey,León,Huso 30,42.50563583217777,-5.878259225192842,835,---,Flotador y limnígrafo,"1.498,50 km2",Órbigo en Santa Marina del Rey
+2062,Duero,Toro,Zamora,Huso 30,41.50827032647338,-5.3994201694761434,637,---,Sonda y limnígrafo,"41.654,80 km2",Duero en Toro-Duero
+2063,Curueño,Valdelugueros,León,Huso 30,42.95247206465344,-5.399706576752926,1165,---,Sonda y limnígrafo,"98,00 km2",Curueño en Tolibia de Abajo
+2068,Curueño,Valdelugueros,León,Huso 30,42.89792846265499,-5.400259194508825,1094,---,Sonda y limnígrafo,"153,40 km2",Curueño en Caldas de Nocedo
+2073,Cea,Sahagún,León,Huso 30,42.370441775149,-5.038022368345576,800,---,Flotador y limnígrafo,"750,80 km2",Cea en Sahagún
+2074,Esla,Villanueva de Azoague,Zamora,Huso 30,41.97428642618591,-5.636550634878723,703,---,Flotador y limnígrafo,"6.782,00 km2",Esla en Castropepe
+2075,Luna,Los Barrios de Luna,León,Huso 30,42.819196239228255,-5.834279571972433,995,---,Sonda y limnígrafo,"529,00 km2",Luna en La Magdalena
+2076,Omaña,Las Omañas,León,Huso 30,42.70340291264159,-5.902316604309398,969,---,Flotador,"482,00 km2",Omaña en Las Omañas
+2077,Tuerto,Quintana del Castillo,León,Huso 30,42.64654612614241,-6.072790509498095,980,---,"Sonda, flotador y limnígrafo","55,00 km2",Tuerto en Villameca
+2078,Porma,Puebla de Lillo,León,Huso 30,42.98872477000684,-5.259975638446723,1106,---,"Sonda, flotador y limnígrafo","145,10 km2",Porma en Camposolillo
+2079,Órbigo,Santa Cristina de la Polvorosa,Zamora,Huso 30,42.00068869469954,-5.70854847449628,707,---,Radar,"4.876,00 km2",Órbigo en Santa Cristina de la Polvorosa
+2080,Tera,Puebla de Sanabria,Zamora,Huso 30,42.05834208412998,-6.630421745358714,900,---,Sonda,"426,40 km2",Tera en Puebla de Sanabria
+2081,Tormes,Puente del Congosto,Salamanca,Huso 30,40.5032982165012,-5.529985997466251,913,---,Sonda y limnígrafo,"1.481,30 km2",Tormes en Puente Congosto
+2082,Eria,Morales del Rey,Zamora,Huso 30,42.05782028702004,-5.761029578670232,724,---,Flotador y limnígrafo,"654,90 km2",Eria en Morales del Rey
+2085,Tormes,"Barco de Ávila, El",Ávila,Huso 30,40.360184746952555,-5.52746271227332,992,---,Sonda,"768,90 km2",Tormes en El Barco de Ávila
+2087,Tormes,Salamanca,Salamanca,Huso 30,40.958786113219766,-5.647633795919766,780,---,Sonda y limnígrafo,"4.132,60 km2",Tormes en Salamanca
+2089,Eria,Castrocontrigo,León,Huso 30,42.22452166141884,-6.251161015325111,972,---,Sonda y limnígrafo,"281,30 km2",Eria en Morla de La Valdería
+2092,Águeda,Zamarra,Salamanca,Huso 30,40.535331299798756,-6.484515037638317,639,---,Sonda,"836,40 km2",Águeda en Salida del embalse del Águeda
+2094,Huebra,Bermellar,Salamanca,Huso 30,40.99474547524802,-6.625880247041095,592,---,Sonda,"2.482,10 km2",Huebra en Puente Resbala
+2097,Pisuerga,Valladolid,Valladolid,Huso 30,41.661169484572376,-4.732358651919092,690,---,Sonda,"15.561,80 km2",Pisuerga en Valladolid-Pisuerga
+2098,Bernesga,Villamanín,León,Huso 30,42.93496516642881,-5.657665687749085,1125,---,Sonda y limnígrafo,"131,30 km2",Bernesga en Villamanín
+2099,Tera,Milles de La Polvorosa,Zamora,Huso 30,41.94205614846428,-5.782924744291211,695,---,Neumático y limnígrafo,"2.356,40 km2",Tera en Mózar de Valverde
+2101,Duero,Molinos de Duero,Soria,Huso 30,41.88877217738131,-2.785925337405718,1100,---,Sonda y limnígrafo,"131,50 km2",Duero en Molinos de Duero
+2102,Esla,Crémenes,León,Huso 30,42.93344058405754,-5.100490060579476,1004,---,Flotador y limnígrafo,"612,80 km2",Esla en Las Salas
+2103,Esla,Sabero,León,Huso 30,42.833510158211105,-5.130906630738354,948,---,Sonda y limnígrafo,"765,10 km2",Esla en Cistierna
+2104,Cea,Almanza,León,Huso 30,42.61335066338172,-5.038660943780502,878,---,Flotador,"468,10 km2",Cea en Villaverde de Arcayos
+2105,Valderaduey,Santervás de Campos,Valladolid,Huso 30,42.21572265337893,-5.096569089310041,756,---,Sonda y limnígrafo,"279,10 km2",Valderaduey en Santervás de Campos
+2106,Pisuerga,Cervera de Pisuerga,Palencia,Huso 30,42.89925968653243,-4.525083086440343,1026,---,Flotador,"252,60 km2",Pisuerga en Arbejal
+2107,Rivera,Cervera de Pisuerga,Palencia,Huso 30,42.865958937190115,-4.525768635145996,1027,---,Flotador y limnígrafo,"54,00 km2",Rivera en Salida del embalse de Cervera
+2108,Carrión,Velilla del río Carrión,Palencia,Huso 30,42.895206525093776,-4.744544337610116,1228,---,Sonda y limnígrafo,"230,30 km2",Carrión en Salida del embalse de Camporredondo
+2109,Arlanzón,Villasur de Herreros,Burgos,Huso 30,42.269670966074855,-3.3395536849290517,1107,---,Flotador y limnígrafo,"107,10 km2",Arlanzón en Salida del embalse de Arlanzón
+2111,Esla,Mansilla de Las Mulas,León,Huso 30,42.51648894606736,-5.374364370282523,804,---,Flotador y limnígrafo,"1.348,30 km2",Esla en Villómar
+2112,Porma,Vegas del Condado,León,Huso 30,42.601107958696325,-5.4050997997225965,820,---,Sonda y limnígrafo,"950,50 km2",Porma en Secos
+2113,Negro,Rionegro del Puente,Zamora,Huso 30,42.03621685551041,-6.266733519035061,820,---,Sonda y limnígrafo,"376,70 km2",Negro en Santa Eulalia de Rionegro
+2114,Voltoya,Coca,Segovia,Huso 30,41.210418935985956,-4.531737960344607,751,---,"Sonda, flotador y limnígrafo","1.022,00 km2",Voltoya en Coca-Voltoya
+2115,Bernesga,León,León,Huso 30,42.59367027638101,-5.578463816100459,823,---,Radar,"538,90 km2",Bernesga en León
+2116,Arlanzón,Estépar,Burgos,Huso 30,42.25524238516057,-3.92800991860624,805,---,Flotador,"1.690,00 km2",Arlanzón en Celada del Camino
+2119,Bernesga,Villaturiel,León,Huso 30,42.522814568230956,-5.53672394883413,794,---,Sonda,"1.136,00 km2",Bernesga en Alija de la Ribera
+2121,Duero,Zamora,Zamora,Huso 30,41.511889647849955,-5.722435712638571,628,---,Sonda,"46.225,80 km2",Duero en Zamora
+2122,Luna,Barrios de Luna,León,Huso 30,42.836279473532805,-5.870689340075692,1030,---,Flotador,"492,20 km2",Luna en Salida del embalse de Barrios de Luna
+2123,Pedroso,Barbadillo del Pez,Burgos,Huso 30,42.107512889129005,-3.2301698050165633,1038,---,Radar y limnígrafo,"239,30 km2",Pedroso en Barbadillo del Pez
+2124,Sequillo,Medina de Rioseco,Valladolid,Huso 30,41.88747145985825,-5.038683577127779,730,---,Flotador y limnígrafo,"848,40 km2",Sequillo en Medina de Rioseco
+2125,Ubierna,Quintanilla-Vivar,Burgos,Huso 30,42.42328093503568,-3.682560634543854,850,---,Limnígrafo,"286,33 km2",Ubierna en Sotopalacios
+2126,Valderaduey,Cañizo,Zamora,Huso 30,41.772346690290796,-5.4985213142791105,672,---,"Sonda, flotador y limnígrafo","1.337,70 km2",Valderaduey en Villárdiga
+2129,Guareña,Toro,Zamora,Huso 30,41.48871329276476,-5.387498582191281,649,---,Sonda y limnígrafo,"1.080,50 km2",Guareña en Toro-Guareña
+2131,Camesa,Pomar de Valdivia,Palencia,Huso 30,42.76312546101759,-4.248025077163334,883,---,Sonda y limnígrafo,"370,60 km2",Camesa en Villaescusa de Las Torres
+2132,Duero,Quintanilla de Onésimo,Valladolid,Huso 30,41.62844094131715,-4.361499680627448,721,---,Sonda y limnígrafo,"12.219,90 km2",Duero en Quintanilla de Onésimo
+2133,Pisuerga,Herrera de Pisuerga,Palencia,Huso 30,42.56112516740008,-4.305327614161946,826,---,Flotador y limnígrafo,"1.493,20 km2",Pisuerga en Herrera de Pisuerga
+2134,Carrión,Guardo,Palencia,Huso 30,42.80747348795247,-4.849908907479164,1090,---,Sonda,"404,10 km2",Carrión en Guardo
+2135,Valdeginate,Emisario de La Nava,Palencia,Huso 30,42.03256683612141,-4.579566960665425,740,---,Sonda y limnígrafo,"886,20 km2",Valdeginate en Emisario de La Nava
+2136,Lucio,Villallano,Palencia,Huso 30,42.76600958980203,-4.23367303396879,892,---,Sonda y limnígrafo,"98,80 km2",Lucio en Villallano
+2137,Águeda,Ciudad Rodrigo,Salamanca,Huso 30,40.603763533582104,-6.563164178120145,610,---,Sonda,"1.087,90 km2",Águeda en Ciudad Rodrigo
+2138,Omaña,Castro de La Lomba,León,Huso 30,42.76817047611854,-5.956573828229285,1015,---,Flotador y limnígrafo,"275,60 km2",Omaña en Castro de La Lomba
+2139,Arlanzón,Burgos,Burgos,Huso 30,42.34816592873304,-3.7371833918373056,841,---,Flotador y limnígrafo,"678,50 km2",Arlanzón en Burgos-Arlazón
+2140,Tormes,Santa Teresa,Salamanca,Huso 30,40.71220082397544,-5.590426906327028,827,---,Sonda y limnígrafo,"1.853,80 km2",Tormes en Salida del embalse de Santa Teresa
+2141,Pedroso,Pinilla de Los Moros,Burgos,Huso 30,42.06500811846597,-3.3277397719782105,965,---,Radar,"286,80 km2",Pedroso en Pinilla de Los Moros
+2145,Órbigo,Villabrázaro,Zamora,Huso 30,42.03825706392436,-5.740514858225131,719,---,Radar,"4.823,00 km2",Órbigo en Manganeses
+2147,Curueño,Ambasaguas,León,Huso 30,42.70901696902676,-5.377394997813116,880,---,Radar,"284,90 km2",Curueño en Ambasaguas
+2150,Torío,Matallana de Torío,León,Huso 30,42.82354560278871,-5.507938630570974,968,---,Flotador y limnígrafo,"225,30 km2",Torío en Matallana de Torio
+2151,Dueñas,Crémenes,León,Huso 30,42.92951425915217,-5.114681589973751,1006,---,Sonda y flotador,"48,20 km2",Dueñas en Crémenes
+2153,Abión,Cabrejas del Pinar,Soria,Huso 30,41.73043291777944,-2.8576104983897066,1020,---,Flotador y limnígrafo,"31,00 km2",Abión en La Fuentona
+2154,Ucero,Ucero,Soria,Huso 30,41.71697241806163,-3.050382530852394,956,---,Radar,"368,20 km2",Ucero en Ucero
+2155,Aliste,Vegalatrave,Zamora,Huso 30,41.70030738325361,-6.119569742316387,695,---,Sonda,"493,60 km2",Aliste en Vegalatrave
+2156,Tuerto,San Félix de La Vega,León,Huso 30,42.3999938622869,-5.952407106657113,804,---,Flotador,"780,20 km2",Tuerto en San Félix de La Vega
+2157,Remolina,Remolina,León,Huso 30,42.9260294061503,-5.079799479298338,1047,---,Sonda,"14,10 km2",Remolina en Remolina
+2158,Adaja,Arévalo,Ávila,Huso 30,41.03228129745147,-4.704511208696464,808,---,Sonda,"1.246,40 km2",Adaja en Arévalo
+2159,Ubierna,Quintanadueñas,Burgos,Huso 30,42.388091140221746,-3.728490243519536,839,---,Sonda,"327,90 km2",Ubierna en Quintanadueñas
+2160,Támega,Castrelo do Val,Ourense,Huso 30,41.9948300540876,-7.442196846122413,411,---,Radar y sonda,"195,90 km2",Támega en Castrelo do Val
+2161,Duratón,Fuentidueña,Segovia,Huso 30,41.43402069236762,-3.967552416405466,809,---,Sonda y limnígrafo,"1.120,80 km2",Duratón en Salida del embalse de Las Vencías
+2162,Duero,Los Rábanos,Soria,Huso 30,41.663266752718414,-2.39328306365196,977,---,Sonda y limnígrafo,"1.687,50 km2",Duero en Tardajos de Duero
+2163,Duero,Almazán,Soria,Huso 30,41.499594883966466,-2.5102644752870473,935,---,Flotador y limnígrafo,"2.878,50 km2",Duero en Almazán
+2164,Tera (Soria),Garray,Soria,Huso 30,41.82914481725428,-2.4534852676309047,1015,---,Radar,"375,20 km2",Tera en Tardesillas
+2165,Arlanza,Palacios de la Sierra,Burgos,Huso 30,41.96725383383749,-3.1248248927622013,1054,---,Radar,"144,00 km2",Arlanza en Palacios de la Sierra
+2166,Arlanza,Castrovido,Burgos,Huso 30,42.045544219889216,-3.249182660818528,976,---,Radar,"293,00 km2",Arlanza en Salida del embalse de Castrovido
+2167,Adaja,Olmedo,Valladolid,Huso 30,41.291325441759945,-4.742467626762606,731,---,Radar,"2.043,00 km2",Adaja en Olmedo
+2168,Mayas,Robleda,Salamanca,Huso 30,40.371492127913335,-6.578581772242264,779,---,Radar,"69,00 km2",Mayas en Robleda-Mayas
+2169,Rubagón,Aguilar de Campoo,Palencia,Huso 30,42.83050609469343,-4.223515518573506,911,---,Radar,"91,00 km2",Rubagón en Menaza
+2181,Castillería,Cervera de Pisuerga,Palencia,Huso 30,42.92264727260896,-4.473400866183485,1079,---,Radar,"50,00 km2",Castillería en Vañes
+2182,Cambrones,Real Sitio de San Ildefonso,Segovia,Huso 30,40.912630238884574,-4.013844362692746,1114,---,Radar,"48,00 km2",Cambrones en La Granja
+2183,Cega,Navafría,Segovia,Huso 30,41.06422651035441,-3.826646006624325,1159,---,Radar,"48,00 km2",Cega en Navafría
+2500,Adaja,Cardeñosa,Ávila,Huso 30,40.72644107542406,-4.6945027467113905,1000,---,Sonda,"855,50 km2",Adaja en Salida del embalse de Castro de las Cogotas
+2501,Agadón,Zamarra,Salamanca,Huso 30,40.49140818034091,-6.449397160702549,670,---,Sonda,"165,80 km2",Agadón en Zamarra
+2502,Águeda,Robleda,Salamanca,Huso 30,40.363175771163135,-6.675912089256707,780,---,Sonda,"262,70 km2",Águeda en Robleda-Águeda
+2503,Águeda,"Sahugo, El",Salamanca,Huso 30,40.444800449986396,-6.574325974227824,710,---,Sonda,"468,10 km2",Águeda en Salida del embalse de Irueña
+2505,Águeda,Saelices El Chico,Salamanca,Huso 30,40.64983656951061,-6.661288251585295,590,---,Flotador,"1.609,20 km2",Águeda en Saelices el Chico
+2507,Arlanza,Lerma,Burgos,Huso 30,42.03067845506197,-3.7589206700731204,815,---,Radar,"1.700,00 km2",Arlanza en Lerma
+2508,Arlanzón,Pineda de la Sierra,Burgos,Huso 30,42.22545807514895,-3.304684630185351,1160,---,Flotador,"59,40 km2",Arlanzón en Pineda de la Sierra
+2510,Bernesga,Cuadros,León,Huso 30,42.75963941076615,-5.636138404512453,920,---,Flotador,"406,20 km2",Bernesga en Cascantes
+2511,Cardaño,Velilla del río Carrión,Palencia,Huso 30,42.934434040751675,-4.7602842661889415,1300,---,Sonda,"45,30 km2",Cardaño en Cardaño de Arriba
+2512,Carrión,Triollo,Palencia,Huso 30,42.92926518641805,-4.67509269527489,1295,---,Sonda,"118,40 km2",Carrión en Triollo
+2514,Casares,Villamanín,León,Huso 30,42.91957070623781,-5.762061810295114,1250,---,Flotador,"26,10 km2",Casares en Salida del embalse de Casares
+2516,Cea,Valderas,León,Huso 30,42.08158195823992,-5.4622318463527195,718,---,Sonda,"1.818,70 km2",Cea en Valderas
+2517,Cega,Aguilafuente,Segovia,Huso 30,41.27375866973249,-4.0933663623468295,820,---,Flotador,"576,20 km2",Cega en Aguilafuente
+2518,Cega,Megeces,Valladolid,Huso 30,41.41606851971259,-4.57155937747909,720,---,Radar,"2.249,50 km2",Cega en Megeces
+2519,Duerna,Lucillo,León,Huso 30,42.374141586748195,-6.288519432518052,1060,---,Flotador,"145,40 km2",Duerna en Boisán
+2520,Duerna,Castrillo de la Valduerna,León,Huso 30,42.32455473853723,-6.146746929231957,915,---,Flotador,"247,90 km2",Duerna en Velilla de la Valduerna
+2522,Duero,Vadocondes,Burgos,Huso 30,41.64429705796949,-3.5735049152034257,795,---,Sonda,"7.323,20 km2",Duero en Vadocondes
+2524,Duero,Hinojosa de Duero,Salamanca,Huso 30,41.03101262963366,-6.820708193999128,133,---,Sonda,"75.162,60 km2",Duero en Saucelle-Duero
+2525,Eresma,San Ildefonso,Segovia,Huso 30,40.890189436450264,-4.022167138445428,1120,---,Flotador,"80,10 km2",Eresma en Valsaín
+2526,Eresma,Palazuelos de Eresma,Segovia,Huso 30,40.921308557314184,-4.049699979293015,1056,---,Sonda,"164,80 km2",Eresma en Salida del embalse de El Pontón Alto
+2527,Eresma,Coca,Segovia,Huso 30,41.263463208036306,-4.560612353060156,740,---,Sonda,"2.527,80 km2",Eresma en Coca-Eresma
+2528,Esgueva,Torre de Esgueva,Valladolid,Huso 30,41.76253338917108,-4.197478337041738,782,---,Flotador,"677,10 km2",Esgueva en Torre de Esgueva
+2529,Esla,Acebedo,León,Huso 30,43.02843465998713,-5.076614940306568,1120,---,Flotador,"119,90 km2",Esla en Liegos
+2530,Esla,Bretó,Zamora,Huso 30,41.87224825521002,-5.765626166474122,685,---,Sonda,"14.420,10 km2",Esla en Bretó
+2531,Huebra,Hinojosa de Duero,Salamanca,Huso 30,41.032904394412355,-6.803561499341796,150,---,Sonda,"2.889,40 km2",Huebra en Saucelle-Huebra
+2532,Luna,Sena de Luna,León,Huso 30,42.92157966665476,-5.962802308470289,1120,---,Sonda,"317,10 km2",Luna en Sena de Luna
+2533,Monderio,Cervera de Pisuerga,Palencia,Huso 30,42.90597218243277,-4.531544925309292,1033,---,Flotador,"19,00 km2",Monderio en Monderio
+2535,Orza,Burón,León,Huso 30,43.04216808793323,-5.008452432978137,1110,---,Flotador,"79,10 km2",Orza en Vegacerneja
+2536,Pisuerga,"Pernía, La",Palencia,Huso 30,42.96054682997366,-4.488196259426914,1095,---,Sonda,"144,30 km2",Pisuerga en San Salvador de Cantamuda
+2537,Resoba,Cervera de Pisuerga,Palencia,Huso 30,42.902635545587145,-4.528534795111276,1057,---,Sonda,"12,80 km2",Resoba en Resoba
+2538,Riaza,Languilla,Segovia,Huso 30,41.44812892874523,-3.4256822959786772,950,---,Flotador,"363,90 km2",Riaza en Languilla
+2539,Rivera,Cervera de Pisuerga,Palencia,Huso 30,42.890787470826105,-4.582029512861389,1050,---,Flotador,"34,10 km2",Rivera en Ventanilla
+2541,Tera,Camarzana de Tera,Zamora,Huso 30,41.98711197393738,-6.041460954407371,750,---,Sonda,"1.417,60 km2",Tera en Camarzana de Tera
+2542,Torío,Cármenes,León,Huso 30,42.942099510708196,-5.552765093162702,1100,---,Flotador,"117,30 km2",Torío en Getino
+2545,Tormes,Encinas de Abajo,Salamanca,Huso 30,40.932923288291256,-5.4814673413916335,788,---,Sonda,"3.806,60 km2",Tormes en Encinas de Abajo
+2546,Tormes,Ledesma,Salamanca,Huso 30,41.0938425760899,-5.996734927829176,735,---,Sonda,"5.262,70 km2",Tormes en Ledesma
+2547,Tuerto,Quintana del Castillo,León,Huso 30,42.67304274478155,-6.0989780592890686,1010,---,Sonda,"38,60 km2",Tuerto en Quintana del Castillo
+2548,Valderaduey,Benegiles,Zamora,Huso 30,41.62324321040785,-5.631925170516492,645,---,Flotador,"3.187,30 km2",Valderaduey en Benegiles
+2549,Vena,Burgos,Burgos,Huso 30,42.344375056492424,-3.696748276797442,870,---,Radar,"150,90 km2",Vena en Burgos-Vena
+2550,Yuso,Boca de Huérgano,León,Huso 30,42.971000075967844,-4.923252743034972,1010,---,Flotador,"196,70 km2",Yuso en Boca de Huérgano
+2551,Zapardiel,Medina del Campo,Valladolid,Huso 30,41.31129399405414,-4.913719406997589,720,---,Sonda,"1.199,40 km2",Zapardiel en Medina del Campo
+2552,Riaza,Maderuelo,Segovia,Huso 30,41.529997498235936,-3.5546098936869783,912,---,Flotador,"759,00 km2",Riaza en Salida del embalse de Linares
+2710,Esla,Cabreros del Río,León,Huso 30,42.3962880928507,-5.555953631973011,757,---,Sonda,"3.915,50 km2",Esla en Villalobar
+2711,Esla,Villamañán,León,Huso 30,42.36674104922829,-5.564858176959912,757,---,Sonda,"3.964,70 km2",Esla en Benamariel 2
+2712,Almar,Alconada,Salamanca,Huso 30,40.913256019758755,-5.36385054079967,830,---,Sonda y limnígrafo,"438,90 km2",Almar en Alconada
+2713,Duerna,"Bañeza, La",León,Huso 30,42.30921715179961,-5.9266836628339075,786,---,Flotador,"290,00 km2",Duerna en Santiago de la Valduerna
+2716,Regato,Camarzana de Tera,Zamora,Huso 30,41.99831961071037,-6.018091286575031,730,---,Sonda y limnígrafo,"259,40 km2",Regato en Camarzana-Regato
+2717,Castrón,Villaveza de Valverde,Zamora,Huso 30,41.948114438232096,-5.849428319426184,710,---,Sonda y limnígrafo,"186,10 km2",Castrón en Villaveza de Valverde
+2718,Jamuz,Quintana del Marco,León,Huso 30,42.195270254395446,-5.850049915573894,744,---,Sonda,"267,70 km2",Jamuz en Genestacio
+2719,Almucera,Brime de Urz,Zamora,Huso 30,42.039453131561324,-5.8726926200222636,720,---,Sonda capacitiva,"230,80 km2",Almucera en Brime de Urz
+2818,Támega,Oimbra,Ourense,Huso 30,41.848640637505696,-7.435287829389853,369,---,Flotador y limnígrafo,"775,80 km2",Támega en Rabal
